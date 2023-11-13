@@ -39,7 +39,7 @@ int main() {
     float x, y;
     char operation;
     cout << "Input 2 float numbers and the operation:";
-    cin >> x >> operation >> y;
-    cout << problemSolution5(x, operation, y) << endl;
+    cin >> x >> y >> operation;
+    cout << problemSolution5(x, y, operation) << endl;
     return 0;
 }
