@@ -1,3 +1,5 @@
+// Student Name: Shuxratov Shoxrux || ID 230096
+
 #include <iostream>
 #include "problems/problem_1.cpp"
 #include "problems/problem_2.cpp"
