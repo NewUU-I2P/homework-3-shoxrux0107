@@ -26,8 +26,8 @@ int main() {
     char S;
     float height;
     cout << "Input the first letter of Gender and height:";
-    cin >> S >> height;
-    cout << problemSolution3(S, height) << endl;
+    cin >> height >> S;
+    cout << problemSolution3(height, S) << endl;
 
     cout << "Problem 4\n";
     std::string macAddress;

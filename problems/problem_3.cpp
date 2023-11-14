@@ -1,6 +1,6 @@
 #include <string>
 
-std::string problemSolution3(char S, float height) {
+std::string problemSolution3(float height, char S) {
     // write your code here
     std::string result;
 
